@@ -12,6 +12,7 @@ Comment.create(user_id:2, text:"8 Hours of sleep a night is vital for your wellb
 
 Comment.create(user_id:1, text:"meditate every day. set a time. even if it is only for two minutes", box_id:2)
 Comment.create(user_id:2, text:"Use your mind and keep it sharp", box_id:2)
+Comment.create(user_id:3, text:"Don't stress about git. Go one step at a time.", box_id:2)
 
 Comment.create(user_id:1, text:"Nurture your heart and give it words of a encouragment", box_id:3)
 Comment.create(user_id:2, text:"Keep your friends close", box_id:3)
@@ -21,6 +22,7 @@ Comment.create(user_id:2, text:"Connection to your higher power is a daily pract
 
 User.create(username:"Moshe")
 User.create(username:"Serref")
+User.create(username:"Brandon")
 
 
 
